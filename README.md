@@ -1,4 +1,4 @@
-### Hello Folks!! 👋
+### Hi! I'm Murray 👋
 
 This is my work-profile for [Stripe][stripe] and mostly has to do with my work
 around [Envoy][envoy] for Stripe's internal service-mesh. Check out my
